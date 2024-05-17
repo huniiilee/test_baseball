@@ -1,7 +1,12 @@
+#include <stdexcept>
 
+using namespace std;
 
 class Baseball {
 public:
-int baeball = 0;
+	void guess(const string& string) {
+		throw length_error("Must be three letters.");
+
+	}
 		
 };
