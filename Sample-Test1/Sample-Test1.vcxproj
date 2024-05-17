@@ -96,6 +96,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="baseball_test.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
